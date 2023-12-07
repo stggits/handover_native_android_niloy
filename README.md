@@ -108,3 +108,6 @@ public class MainActivity extends AppCompatActivity {
 <p align="center">
     <img src="./assets/7.png" width="380"></img>
 </p>
+
+### 9. If you wish to publish your app to Google Play Store, follow the official documentation-
+* [https://developer.android.com/studio/publish](https://developer.android.com/studio/publish)
