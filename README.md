@@ -4,6 +4,7 @@
 - 16 GB RAM, SSD
 - OpenJDK: 17
 - Android Studio
+---
 
 ### 1. Open up Android Studio and click on New Project
 <p align="center">
