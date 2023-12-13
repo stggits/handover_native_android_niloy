@@ -1,5 +1,9 @@
 # Native Android Handover
-OpenJDK: 17
+### System Requirement
+- Windows 10 (64-bit)
+- 16 GB RAM, SSD
+- OpenJDK: 17
+- Android Studio
 
 ### 1. Open up Android Studio and click on New Project
 <p align="center">
