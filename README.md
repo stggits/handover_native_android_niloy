@@ -1,4 +1,5 @@
 # Native Android Handover
+OpenJDK: 17
 
 ### 1. Open up Android Studio and click on New Project
 <p align="center">
